@@ -87,6 +87,7 @@
 .article .card {
 	background-color: #FFFFFF;
 	color: black;
+	height: 200px;
 	text-align: center;
 }
 
